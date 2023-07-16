@@ -5,7 +5,7 @@
 
 /**
  *  main - points if the number is positive,negative or
-0
+ *  0
  *  Return: Always 0
  */
 int main(void)
