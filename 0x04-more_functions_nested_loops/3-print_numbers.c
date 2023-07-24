@@ -2,8 +2,8 @@
 
 
 /**
- * print_numbers - Print the number since 0 up to 0
- * Return: The numbers since 0 up to 0
+ * print_numbers - Print the number since 0 up to 9
+ * Return: The numbers since 0 up to 9
  */
 
 void print_numbers(void)
