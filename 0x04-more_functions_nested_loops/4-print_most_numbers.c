@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * print_most_mumbers - Print the number since 0 up to 9
@@ -9,6 +9,7 @@ i#include "main.h"
 void print_most_numbers(void)
 
 {
+
 	int x = 0;
 
 	for (; x <= 9; x++)
