@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_mumbers - Print the number since 0 up to 9
+ * print_most_mumbers - Print the numbers since 0 up to 9
  * Description: Prints the numbers excluding 2 and 4
  * Return: The numbers since 0 up to 9
  */
